@@ -1,0 +1,14 @@
+{
+  "name": "giphy-app",
+  "version": "1.0.0",
+  "description": "a simple app that interacts with the giphy-api",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adrian Petrovic, Fabian Bickel",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.9.2"
+  }
+}
