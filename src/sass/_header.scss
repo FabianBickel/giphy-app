@@ -1,0 +1,30 @@
+header {
+  background-color: #23232A;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: $header-height;
+
+  > * {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    height: $header-height;
+    padding: 10px;
+
+  }
+
+  .header-logo {
+
+    img {
+      height: 100%;
+    }
+  }
+
+  input {
+    height: $header-height * 0.5;
+    padding-inline: 20px;
+    padding-block: 10px;
+    border-radius: 9001px;
+  }
+}

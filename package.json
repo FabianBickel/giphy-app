@@ -2,13 +2,15 @@
   "name": "giphy-app",
   "version": "1.0.0",
   "description": "a simple app that interacts with the giphy-api",
-  "main": "index.html",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "author": "Adrian Petrovic, Fabian Bickel",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.9.2",
     "parcel": "^2.9.2"
   }
 }

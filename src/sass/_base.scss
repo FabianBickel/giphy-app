@@ -1,0 +1,24 @@
+$header-height: 6rem;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+html {
+  background-color: black;
+  box-sizing: border-box;
+  font-size: 62.5%;
+  color: white;
+}
+
+body {
+  max-width: 1280px;
+  margin: auto;
+}
