@@ -1,0 +1,94 @@
+<mxfile host="app.diagrams.net" modified="2023-06-22T11:36:11.733Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="69qP1Q_sXooSdcPItVFQ" version="21.5.0" type="github">
+  <diagram name="Page-1" id="3kxuHKP945oKUsd8io5F">
+    <mxGraphModel dx="1430" dy="867" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-1" target="VkCF5_UI2aRoA29mo4XA-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-1" value="User searches" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="40" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-2" target="VkCF5_UI2aRoA29mo4XA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-23" value="Make selected result" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBorderColor=none;" parent="1" source="VkCF5_UI2aRoA29mo4XA-2" target="VkCF5_UI2aRoA29mo4XA-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-2" value="User selects gif" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="600" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-3" target="VkCF5_UI2aRoA29mo4XA-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-3" value="Gif loads with gif id" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="600" y="160.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-4" target="VkCF5_UI2aRoA29mo4XA-11" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-4" target="VkCF5_UI2aRoA29mo4XA-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="175.06" />
+              <mxPoint x="340" y="150.06" />
+              <mxPoint x="420" y="150.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-4" value="User clicks pagination" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="40" y="160.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VkCF5_UI2aRoA29mo4XA-5" target="VkCF5_UI2aRoA29mo4XA-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-5" value="User uploads gif&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="600" y="240.05999999999997" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-6" value="User downloads gif to clipboard" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;fillColor=#FFD966;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#EDEDED;" parent="1" source="VkCF5_UI2aRoA29mo4XA-8" target="VkCF5_UI2aRoA29mo4XA-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-8" value="Load search results" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="200" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-24" value="Bind handler" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="VkCF5_UI2aRoA29mo4XA-10" target="VkCF5_UI2aRoA29mo4XA-2" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-10" value="Render search results" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#67AB9F;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="360" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-11" value="Render pagination buttons" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#67AB9F;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="360" y="160.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-12" value="Render gif with info" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#67AB9F;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="920" y="160.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-33" value="Bind handler" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="VkCF5_UI2aRoA29mo4XA-13" target="VkCF5_UI2aRoA29mo4XA-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VkCF5_UI2aRoA29mo4XA-13" target="VkCF5_UI2aRoA29mo4XA-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-13" value="Load gif with info" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="760" y="80.06" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="VkCF5_UI2aRoA29mo4XA-25" target="VkCF5_UI2aRoA29mo4XA-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="810" y="240.05999999999997" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VkCF5_UI2aRoA29mo4XA-25" value="Upload to API" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#EA6B66;fontColor=#000000;strokeColor=#EDEDED;" parent="1" vertex="1">
+          <mxGeometry x="760" y="240.05999999999997" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
